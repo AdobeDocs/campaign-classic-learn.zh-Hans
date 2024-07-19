@@ -1,6 +1,6 @@
 ---
 title: 如何使用动态内容块个性化电子邮件
-description: 本教程演示如何个性化投放内容、在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
+description: 本教程演示如何个性化投放内容、在投放模板中使用JavaScript代码以及在不同投放模板中标准化和共享内容块。
 feature: Personalization
 jira: KT-1559
 doc-type: feature video
@@ -8,8 +8,8 @@ activity: use
 team: TM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 66%
+source-wordcount: '258'
+ht-degree: 71%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 66%
 3 - 插入动态的个性化字段\
 4 - 创建条件内容。
 
-本教程演示如何个性化投放内容、在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
+本教程演示如何个性化投放内容、在投放模板中使用JavaScript代码以及在不同投放模板中标准化和共享内容块。
 
 ## 创建个性化块并将其添加到投放
 
@@ -43,4 +43,4 @@ ht-degree: 66%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-要了解有关个性化的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+要了解有关Personalization的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)。

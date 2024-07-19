@@ -11,14 +11,14 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 55%
+source-wordcount: '105'
+ht-degree: 63%
 
 ---
 
 # Snowflake 的大数据管理
 
-本教程将介绍如何利用 [!DNL Snowflake] Adobe Campaign Classic中的连接器。
+本教程介绍如何在Adobe Campaign Classic中利用[!DNL Snowflake]连接器。
 您将学习如何
 
 * 连接到 Snowflake
@@ -32,4 +32,4 @@ ht-degree: 55%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
-有关如何配置对Snowflake的访问权限的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).
+有关如何配置访问Snowflake的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)。

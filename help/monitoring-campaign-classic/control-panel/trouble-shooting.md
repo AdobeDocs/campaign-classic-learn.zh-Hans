@@ -8,7 +8,7 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '315'
 ht-degree: 79%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 79%
 ### 症状：实例未列在 [!UICONTROL Control Panel] 中
 
 **原因：**
-最可能的用户必须添加为“用户”产品配置文件 _Campaign-xxx-Administrators/Admin_ 对于缺少的实例
+对于缺少的实例，最可能的原因是将用户添加为“用户”产品配置文件_Campaign-xxx-Administrators/Admin_
 
 **要做什么：**
 管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们须将自己添加为“用户”。
@@ -43,7 +43,7 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
-*查找 IMS Org ID（00:26 分）*
+*查找 IMS 组织 ID（26 秒）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
@@ -59,7 +59,7 @@ ht-degree: 79%
 连接到 SFTP 服务器需要：
 
 * [!UICONTROL Allow listing] 您连接到 SFTP 服务器的 IP 地址
-* 必须向 Adobe Campaign 注册的私钥/公钥对
+* 须在 Adobe Campaign 中注册的私钥/公钥对
 * 如果直接连接到SFTP服务器，则需要SFTP客户端软件
 
 ### 帮助文档 {#helpful-docs}
