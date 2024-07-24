@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 教程
 user-guide-description: Adobe Campaign Classic v7 的视频和教程。
 breadcrumb-title: Campaign Classic v7 教程
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -47,6 +47,8 @@ ht-degree: 98%
       + [电子邮件投放问题疑难解答](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [向电子邮件投放添加附件](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)
+      + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
    + 短信渠道{#sms-channel}
       + [创建短信投放](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推送渠道{#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 98%
 + [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
-   + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)
-   + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
+   + 
