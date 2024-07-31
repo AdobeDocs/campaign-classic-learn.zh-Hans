@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 教程
 user-guide-description: Adobe Campaign Classic v7 的视频和教程。
 breadcrumb-title: Campaign Classic v7 教程
 auto-video-transcripts: true
-source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
+source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -108,4 +108,3 @@ ht-degree: 98%
 + [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
-   + 
