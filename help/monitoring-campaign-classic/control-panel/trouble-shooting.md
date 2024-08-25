@@ -8,7 +8,7 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '311'
 ht-degree: 79%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
-*查找 IMS 组织 ID（26 秒）*
+*查找 IMS Org ID（00:26 分）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
