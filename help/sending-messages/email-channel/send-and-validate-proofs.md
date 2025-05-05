@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何发送并确认验证。
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448927?learn=on&captions=chi_hans){transcript=true}

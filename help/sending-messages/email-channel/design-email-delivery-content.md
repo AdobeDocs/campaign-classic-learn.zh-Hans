@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何配置、个性化和测试电子邮件投放内容。了解如何使用模板、上传图像、添加表情符号、嵌入条形码和二维码。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453872?learn=on&captions=chi_hans){transcript=true}

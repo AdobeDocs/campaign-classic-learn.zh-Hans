@@ -19,4 +19,4 @@ ht-degree: 100%
 了解如何防止 Adobe Campaign 中已禁用的用户帐户停止正在运行的工作流。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335988?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422507?quality=12&learn=on&captions=chi_hans){transcript=true}

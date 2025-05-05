@@ -23,4 +23,4 @@ ht-degree: 59%
 
 了解如何通过从Explorer配置收件人列表来创建受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27505?learn=on&captions=chi_hans){transcript=true}

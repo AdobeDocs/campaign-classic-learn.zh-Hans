@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在未填充的情况下向应用程序订阅 RCP 添加其他参数。
 
->[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422512?quality=12&learn=on&captions=chi_hans){transcript=true}

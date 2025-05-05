@@ -17,4 +17,4 @@ ht-degree: 100%
 # 已禁用的消息触发电子邮件
 
 了解如何阻止已禁用的消息触发电子邮件
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437121?quality=12&learn=on&captions=chi_hans){transcript=true}

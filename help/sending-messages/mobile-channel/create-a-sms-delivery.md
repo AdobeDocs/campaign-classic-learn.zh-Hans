@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何创建短信投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/330982?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441438?learn=on&captions=chi_hans){transcript=true}

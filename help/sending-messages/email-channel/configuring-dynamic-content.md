@@ -21,6 +21,6 @@ ht-degree: 84%
 
 了解不同类型的动态内容，并了解如何创建个性化块和条件语句并将它们应用到投放中。
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453350?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=zh-Hans)。

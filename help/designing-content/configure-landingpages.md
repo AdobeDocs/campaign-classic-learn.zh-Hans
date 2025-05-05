@@ -21,6 +21,6 @@ ht-degree: 0%
 
 了解如何创建和配置登陆页面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448916/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关详细信息，请参阅有关[创建登陆页面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=zh-Hans)的详细文档。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何修复在控制台登录过程中遇到的错误
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437776?quality=12&learn=on&captions=chi_hans){transcript=true}

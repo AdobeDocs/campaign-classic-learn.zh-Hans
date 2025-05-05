@@ -21,4 +21,4 @@ ht-degree: 36%
 
 了解如何向现有电子邮件添加种子和验证，以及如何发送该电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35508?quality=12&learn=on&captions=chi_hans){transcript=true}

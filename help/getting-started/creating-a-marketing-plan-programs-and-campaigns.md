@@ -22,4 +22,4 @@ ht-degree: 100%
 了解如何创建营销计划、项目和活动，为活动设置属性，并了解如何使用该计划。
 该视频将指导您随同完成一个练习。
 
->[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326559?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何解决投放中消息已取消（呈现不可用）的错误。
 
->[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422552?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何修复在登录 Adobe Campaign 过程中显示的错误或警告。
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436224?quality=12&learn=on&captions=chi_hans){transcript=true}

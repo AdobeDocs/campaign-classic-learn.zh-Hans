@@ -21,4 +21,4 @@ ht-degree: 29%
 
 了解如何在电子邮件目标中使用列表之前创建工作流以定位收件人，以及如何使其重复执行。
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27496?quality=12&learn=on&captions=chi_hans){transcript=true}

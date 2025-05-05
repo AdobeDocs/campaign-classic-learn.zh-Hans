@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Campaign 中取消发布 Web 应用程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422566?quality=12&learn=on&captions=chi_hans){transcript=true}

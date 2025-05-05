@@ -22,6 +22,6 @@ ht-degree: 17%
 
 了解如何使用Adobe Campaign的Web应用程序编辑器创建首选项中心。
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27548?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关详细信息，请参阅有关[创建登陆页面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=zh-Hans)的详细文档。

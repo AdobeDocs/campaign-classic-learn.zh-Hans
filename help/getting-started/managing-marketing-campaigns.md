@@ -21,4 +21,4 @@ ht-degree: 15%
 
 了解[!UICONTROL Adobe Campaign]的主要概念，帮助您有效规划、执行和衡量跨渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326575?quality=12&learn=on&captions=chi_hans){transcript=true}

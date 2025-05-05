@@ -21,4 +21,4 @@ ht-degree: 54%
 
 了解Campaign Classic中的内置报告和分析，并了解如何生成投放报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343079?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 64%
 
 了解如何直接从营销活动创建电子邮件投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27491?quality=12&learn=on&captions=chi_hans){transcript=true}

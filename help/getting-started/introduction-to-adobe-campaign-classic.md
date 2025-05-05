@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Adobe Campaign Classic 如何融入 Adobe 数字体验产品组合，并概述其主要特性和功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39518?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何将时区应用于计划的工作流活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443859?quality=12&learn=on&captions=chi_hans){transcript=true}

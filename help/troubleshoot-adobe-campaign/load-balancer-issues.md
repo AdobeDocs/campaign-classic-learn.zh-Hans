@@ -16,4 +16,4 @@ ht-degree: 100%
 # 负载平衡器问题
 
 了解如何修复实例重新启动时的负载平衡器问题
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437501?quality=12&learn=on&captions=chi_hans){transcript=true}

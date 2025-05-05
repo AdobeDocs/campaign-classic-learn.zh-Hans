@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447787?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=zh-Hans)

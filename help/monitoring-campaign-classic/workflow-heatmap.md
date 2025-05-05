@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Campaign 工作流热图以颜色编码的图形呈现方式说明当前运行的所有工作流。通过提供并发工作流数量的快速概览，Adobe Campaign 平台管理员可以监测实例的负载并相应地计划工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27457?quality=12&learn=on&captions=chi_hans){transcript=true}

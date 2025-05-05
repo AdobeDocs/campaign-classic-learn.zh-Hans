@@ -21,4 +21,4 @@ ht-degree: 82%
 
 了解如何通过将&#x200B;**[!UICONTROL standard exclusion]**&#x200B;应用于工作流来优化目标。 您还将了解如何创建预定义过滤器，以及如何对工作流进行故障诊断。
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326452?quality=12&learn=on&captions=chi_hans){transcript=true}

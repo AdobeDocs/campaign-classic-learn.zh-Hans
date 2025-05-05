@@ -30,6 +30,6 @@ ht-degree: 63%
 * 搜索和报告数据
 * 如何导出列表中的数据并创建实时定位过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36056?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关如何配置访问Snowflake的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=zh-Hans#installing-campaign-classic)。

@@ -21,4 +21,4 @@ ht-degree: 64%
 
 了解如何通过使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;活动组合工作流中的查询结果来优化目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326551?quality=12&learn=on&captions=chi_hans){transcript=true}

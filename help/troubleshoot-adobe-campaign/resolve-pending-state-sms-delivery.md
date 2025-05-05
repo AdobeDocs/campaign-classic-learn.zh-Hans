@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何解决新创建的外部帐户的短信投放进入待处理状态的问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422497?quality=12&learn=on&captions=chi_hans){transcript=true}

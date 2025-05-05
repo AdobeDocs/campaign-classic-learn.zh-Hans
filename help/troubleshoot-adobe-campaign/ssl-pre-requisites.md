@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在安装 SSL 证书时确认是否满足先决条件。
 
->[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422502?quality=12&learn=on&captions=chi_hans){transcript=true}

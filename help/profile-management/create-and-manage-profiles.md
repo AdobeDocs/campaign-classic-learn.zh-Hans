@@ -25,4 +25,4 @@ ht-degree: 0%
 
 此视频还介绍了 Adobe Campaign Classic 对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326753?quality=12&learn=on&captions=chi_hans){transcript=true}

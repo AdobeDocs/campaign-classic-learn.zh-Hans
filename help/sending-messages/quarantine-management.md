@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解隔离管理在 Adobe Campaign 中的工作方式，并了解如何管理隔离的地址。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421896?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 了解如何对内部部署安装的内存不足错误进行故障排除。
 
->[!VIDEO](https://video.tv.adobe.com/v/335891?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422557?quality=12&learn=on&captions=chi_hans){transcript=true}

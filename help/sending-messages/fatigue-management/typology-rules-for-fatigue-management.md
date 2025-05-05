@@ -24,6 +24,6 @@ ht-degree: 38%
 
 此视频介绍如何通过应用类型规则在Adobe Campaign Classic中实施疲劳管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27520?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 访问产品文档以了解有关[营销活动类型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans)的更多信息。

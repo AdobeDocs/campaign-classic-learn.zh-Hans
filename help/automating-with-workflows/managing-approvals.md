@@ -22,6 +22,6 @@ ht-degree: 50%
 通过批准，操作员能够做出管理工作流的决策或确认工作流的继续执行。
 了解如何设置批准和营销活动，以及如何区分投放和工作流批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452627?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 要了解有关定义审批的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=zh-Hans#sending-emails)。

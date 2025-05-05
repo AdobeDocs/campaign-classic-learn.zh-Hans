@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何增加可在实例上并行运行的活动工作流的数量。
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436584?quality=12&learn=on&captions=chi_hans){transcript=true}

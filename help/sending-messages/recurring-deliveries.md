@@ -38,10 +38,10 @@ ht-degree: 50%
 
 此视频介绍如何配置循环投放和调度程序活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27510?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 如何设置连续投放 {#how-to-set-up-a-continuous-delivery}
 
 本视频演示了如何使用增量查询配置连续投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27515?quality=12&learn=on&captions=chi_hans){transcript=true}

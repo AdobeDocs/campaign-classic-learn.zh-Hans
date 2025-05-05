@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何为非管理员用户修复发布错误
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436717?quality=12&learn=on&captions=chi_hans){transcript=true}

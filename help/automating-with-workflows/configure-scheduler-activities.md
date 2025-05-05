@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何在工作流中配置调度程序活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447119?quality=12&learn=on&captions=chi_hans){transcript=true}
