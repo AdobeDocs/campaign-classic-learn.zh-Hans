@@ -24,4 +24,4 @@ ht-degree: 50%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-要了解有关定义审批的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails)。
+要了解有关定义审批的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=zh-Hans#sending-emails)。
