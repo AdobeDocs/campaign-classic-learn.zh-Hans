@@ -22,5 +22,5 @@ Adobe Campaign使用工作流来执行定位活动、构建活动或执行Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
-请参阅有关工作流的文档[](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hans)
+请参阅有关工作流的文档[&#128279;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hans)
 和[关于定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)以了解更多信息。
