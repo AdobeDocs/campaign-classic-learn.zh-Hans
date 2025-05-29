@@ -2,7 +2,7 @@
 title: Android 推送通知入门 - 简介
 description: 本教程将指导您完成从 Adobe Campaign 发送推送通知以及在 Android 应用程序中接收这些通知所涉及的步骤。
 feature: Push
-jira: KT-6438
+jira: KT-5951
 doc-type: article
 activity: setup
 team: TM
@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 100%
@@ -41,7 +41,7 @@ ht-degree: 100%
 
    需要在 [!DNL Campaign] 实例上安装 [!DNL Mobile App channel] 软件包。以下视频介绍如何检查是否在实例上安装了 [!DNL Mobile App channel]，如果未安装，则介绍如何安装。
 
->[!VIDEO](https://video.tv.adobe.com/v/340421?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## 教程概述
 
@@ -49,9 +49,9 @@ ht-degree: 100%
 
 需要以下配置步骤：
 
-### 步骤 1：扩展应用程序订阅模式以个性化 [!DNL push] 通知
+### 步骤 1：扩展应用程序订阅架构以个性化 [!DNL push] 通知
 
-由于我们希望个性化 [!DNL push] 通知，因此将首先[扩展应用程序订阅模式](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)，以便能够存储用户订阅服务时从应用程序收到的个性化值。
+由于我们希望个性化 [!DNL push] 通知，因此将首先[扩展应用程序订阅架构](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)，以便能够存储用户订阅服务时从应用程序收到的个性化值。
 
 ### 步骤 2：在 Campaign 中配置 Android 服务并创建移动应用程序
 
@@ -63,4 +63,4 @@ ht-degree: 100%
 
 ## 启动教程
 
-步骤 1：[扩展应用程序订阅模式](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+步骤 1：[扩展应用程序订阅架构](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
