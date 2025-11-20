@@ -8,34 +8,34 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
 
 # Adobe Campaign Classic v7 教程 {#tutorials}
 
-+ [Adobe Campaign Classic V7 -Tutorials](/help/overview.md)
-+ 快速入门{#getting-started}
++ [Adobe Campaign Classic V7 — 教程](/help/overview.md)
++ 快速入门 {#getting-started}
    + [Adobe Campaign Classic 简介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安装和设置 Adobe Campaign 客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [浏览 Adobe Campaign Classic 用户界面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [在工作流中定位用户档案](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [在工作流中锁定轮廓](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [创建事件触发式活动](/help/getting-started/create-event-triggered-campaigns.md)
-+ 用户档案管理{#profile-management}
-   + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
-   + [导入用户档案](/help/data-management/importing-profiles.md)
++ 用户档案管理 {#profile-management}
+   + [创建和管理轮廓](/help/profile-management/create-and-manage-profiles.md)
+   + [导入轮廓](/help/data-management/importing-profiles.md)
    + [创建收件人列表](/help/profile-management/creating-a-list-of-recipients.md)
    + [使用工作流创建收件人列表](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 发送消息{#sending-messages}
    + 电子邮件渠道{#email-channel}
       + [创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [设计电子邮件投放内容](/help/sending-messages/email-channel/design-email-delivery-content.md)
-      + [通过电子邮件管理种子和验证](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [通过电子邮件管理种子和校样](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [发送并验证校样](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [使用对照组](/help/sending-messages/email-channel/use-control-groups.md)
       + [配置 A/B 测试的投放](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
@@ -49,13 +49,13 @@ ht-degree: 98%
       + [设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)
       + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
-   + 短信渠道{#sms-channel}
+   + 短信渠道 {#sms-channel}
       + [创建短信投放](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + 推送渠道{#push-channel}
+   + 推送渠道 {#push-channel}
       + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hans)
-   + 直邮{#direct-mail}
+   + 直邮 {#direct-mail}
       + [创建直邮投放](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 使用投放模板{#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
@@ -64,18 +64,18 @@ ht-degree: 98%
    + 疲劳管理{#fatigue-management}
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + 监测消息{#monitoring-messages}
+   + 监控消息 {#monitoring-messages}
       + [了解隔离管理](/help/sending-messages/quarantine-management.md)
    + [配置和管理订阅服务](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ 编排活动{#orchestration}
++ 编排营销活动 {#orchestration}
    + [执行活动](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [多渠道和跨渠道活动简介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [创建多渠道活动](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ 报告{#reporting}
++ 报告 {#reporting}
    + [访问内置报告](/help/reporting/accessing-built-in-reports.md)
    + [生成描述性分析报告](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 借助工作流实现自动化{#automating-with-workflows}
++ 使用工作流实现自动化{#automating-with-workflows}
    + [创建工作流](/help/automating-with-workflows/creating-a-workflow.md)
    + [创建定位工作流](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -92,7 +92,7 @@ ht-degree: 98%
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
    + [创建首选项中心](/help/designing-content/create-a-preference-center.md)
 + [创建调查](/help/designing-content/create-a-survey.md)
-+ 监测{#monitoring}
++ 监测 {#monitoring}
    + [工作流热图](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [审核记录](/help/monitoring-campaign-classic/audit-trail.md)
 + 数据管理 {#data-management}
@@ -100,11 +100,11 @@ ht-degree: 98%
 + 集成 {#integrating}
    + [与 Adobe Target 集成](/help/integrations/target-integration.md)
    + [与 Dynamics 365 集成](/help/integrations/dynamics365-integration.md)
-+ 管理{#administrating}
++ 管理 {#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target="_blank"}
    + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
-   + 访问外部数据库（联合数据访问）{#fda}
-      + [&#x200B; [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+   + 访问外部数据库（联合数据访问） {#fda}
+      + [ [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
-+ 战略与思想领导{#strategy}
++ 战略与思想领导力{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
