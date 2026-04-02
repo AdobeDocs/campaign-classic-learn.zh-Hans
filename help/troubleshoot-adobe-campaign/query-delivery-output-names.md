@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何获取投放 XML 数据
 
->[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436728?captions=chi_hans&quality=12&learn=on){transcript=true}

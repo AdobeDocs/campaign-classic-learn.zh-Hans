@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何发送并验证校样。
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448927?captions=chi_hans&learn=on){transcript=true}

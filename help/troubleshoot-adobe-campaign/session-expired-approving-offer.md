@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何解决在批准产品建议时会话过期的问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422547?captions=chi_hans&quality=12&learn=on){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何修复零 (0) ID 问题
 
->[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3440153?captions=chi_hans&quality=12&learn=on){transcript=true}
