@@ -1,6 +1,6 @@
 ---
-title: 如何发送并确认验证
-description: 了解如何发送并确认验证。
+title: 如何发送并验证校样
+description: 了解如何发送并验证校样。
 feature: Email, Proofs
 jira: KT-5094
 thumbnail: 330945.jpg
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 725d5704-631b-4e5e-8910-876275d37646
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '27'
 ht-degree: 100%
 
 ---
 
-# 发送并确认验证
+# 发送并验证校样
 
-了解如何发送并确认验证。
+了解如何发送并验证校样。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448927?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}

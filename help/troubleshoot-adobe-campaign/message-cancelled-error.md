@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8391
 exl-id: e22d0976-a668-4dfd-99fc-1aa586a8632d
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何解决投放中消息已取消（呈现不可用）的错误。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422552?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on){transcript=true}

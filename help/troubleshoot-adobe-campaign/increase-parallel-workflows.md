@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8426
 exl-id: 9a31159a-ffc0-41d2-8c3b-68a5d6f77fc4
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何增加可在实例上并行运行的活动工作流的数量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436584?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}

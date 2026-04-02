@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何解决新创建的外部帐户的短信投放进入待处理状态的问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422497?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on){transcript=true}

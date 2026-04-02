@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8419
 exl-id: 9fd5ed20-a190-4759-84b6-fe7d08e61ea1
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在未填充的情况下向应用程序订阅 RCP 添加其他参数。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422512?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}

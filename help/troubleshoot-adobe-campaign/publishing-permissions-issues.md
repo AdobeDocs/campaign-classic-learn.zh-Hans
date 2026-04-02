@@ -8,8 +8,8 @@ type: Troubleshooting
 jira: KT-8423
 exl-id: 328cdb2a-e889-4bce-ab95-491ad544f060
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '25'
+workflow-type: ht
+source-wordcount: '27'
 ht-degree: 100%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何为非管理员用户修复发布错误
 
->[!VIDEO](https://video.tv.adobe.com/v/3436717?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}

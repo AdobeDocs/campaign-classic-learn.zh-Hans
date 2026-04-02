@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: 53682271ea3bc8655f3ec2621e67aadf4befd0ad
 workflow-type: ht
-source-wordcount: '93'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 了解对照组的概念以及如何将对照组用于投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449980?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >如果定位工作流程中有多个投放，则需要在投放级别以及活动设置中启用对照组设置。
