@@ -99,12 +99,12 @@ ht-degree: 99%
    + [查询数据](/help/data-management/query-data.md)
 + 集成 {#integrating}
    + [与 Adobe Target 集成](/help/integrations/target-integration.md)
-   + {hide-from-toc}[与Dynamics 365](/help/integrations/dynamics365-integration.md)集成
+   + {hide-from-toc}[与Dynamics 365集成](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target="_blank"}
    + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
    + 访问外部数据库 (FDA) {#fda}
-      + [ [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [&#x200B; [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
