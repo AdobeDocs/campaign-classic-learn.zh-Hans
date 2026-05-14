@@ -10,19 +10,25 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
+TQID: https://experienceleague.adobe.com/kMT-E2VOVEDgcINzgobQvKSm1z37lW8Cp1MNdkuwM9Q
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 40%
+source-wordcount: 97
+ht-degree: 46%
 
 ---
 
 # 个性化电子邮件 — 使用条件内容创建多语言新闻稿
 
-通过配置条件内容字段，您可以创建高级个性化。满足特定条件时可替换完整的文本块和/或图像。
+通过配置条件内容字段，您可以创建高级个性化。 满足特定条件时可替换完整的文本块和/或图像。
 
 了解如何在多语言新闻稿的示例中向投放添加条件内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/41037?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
 要了解有关个性化的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=zh-Hans)。
