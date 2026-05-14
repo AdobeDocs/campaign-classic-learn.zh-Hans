@@ -9,15 +9,24 @@ team: DOC
 role: User
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-source-git-commit: 80728697b440ce7fc44635d20e6e50498a3ea90f
+TQID: https://experienceleague.adobe.com/txlvXM-euYS9HZr5KH4fZRzBd1j3s6HtLWrMtpJjqHM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 15%
+source-wordcount: 53
+ht-degree: 47%
 
 ---
 
 # 创建定位工作流
 
-Adobe Campaign使用工作流来执行定位活动、构建活动或执行Adobe Campaign技术流程。 在本视频中，我们将重点介绍定位工作流。 定向工作流使您能够构建多个投放目标。
+Adobe Campaign 使用工作流来执行定位活动、构建活动或执行 Adobe Campaign 技术流程。 在本视频中，我们将重点介绍定位工作流。 定向工作流使您能够构建多个投放目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27500?captions=chi_hans&quality=12&learn=on){transcript=true}
