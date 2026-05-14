@@ -28,4 +28,4 @@ ht-degree: 100%
 
 了解如何配置 A/B 测试的投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420565?captions=chi_hans&quality=12&learn=on){transcript=true}

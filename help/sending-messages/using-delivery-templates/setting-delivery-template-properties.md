@@ -28,4 +28,4 @@ ht-degree: 32%
 
 以下视频介绍了如何设置投放模板属性，并详细说明每个属性。
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38011?captions=chi_hans&quality=12&learn=on){transcript=true}

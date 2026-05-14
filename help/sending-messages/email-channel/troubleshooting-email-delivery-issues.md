@@ -31,4 +31,4 @@ ht-degree: 100%
 
 了解如何对 Campaign 中的电子邮件投放问题进行故障诊断。
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343086?captions=chi_hans&quality=12&learn=on){transcript=true}

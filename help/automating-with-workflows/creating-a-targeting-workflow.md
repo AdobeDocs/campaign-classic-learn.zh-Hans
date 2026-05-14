@@ -29,4 +29,4 @@ ht-degree: 47%
 
 Adobe Campaign 使用工作流来执行定位活动、构建活动或执行 Adobe Campaign 技术流程。 在本视频中，我们将重点介绍定位工作流。 定向工作流使您能够构建多个投放目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27500?captions=chi_hans&quality=12&learn=on){transcript=true}

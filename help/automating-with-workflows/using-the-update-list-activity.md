@@ -28,5 +28,5 @@ ht-degree: 69%
 
 了解Adobe Campaign Classic中列表的概念，并了解如何使用工作流中的更新列表活动创建列表。
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326567?captions=chi_hans&quality=12&learn=on){transcript=true}
 

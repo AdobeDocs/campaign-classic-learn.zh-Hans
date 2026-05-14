@@ -32,6 +32,6 @@ ht-degree: 90%
 
 了解如何在主题行中添加个性化字段，以及如何添加电子邮件投放的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27467?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 要了解有关个性化的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=zh-Hans)。

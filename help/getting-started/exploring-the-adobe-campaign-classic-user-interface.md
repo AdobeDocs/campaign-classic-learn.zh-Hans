@@ -30,4 +30,4 @@ ht-degree: 66%
 
 本课介绍主要 Adobe Campaign Classic 用户界面，并向您展示如何导航主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39534?captions=chi_hans&quality=12&learn=on){transcript=true}

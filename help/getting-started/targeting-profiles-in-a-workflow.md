@@ -30,7 +30,7 @@ ht-degree: 91%
 
 了解活动工作流的使用情况，并了解如何使用过滤条件在工作流中创建工作流和锁定轮廓。
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327077?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 观看下一个教程
 

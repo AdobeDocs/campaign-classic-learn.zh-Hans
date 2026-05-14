@@ -33,7 +33,7 @@ ht-degree: 43%
 
 了解如何使用 Adobe Target 提供的动态内容对投放进行个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453267?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 >[!NOTE]
 > 该视频已在Campaign V8中录制，Campaign Classic V7和Campaign V8的功能相同。

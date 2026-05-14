@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何创建事件触发式活动并了解其用途。
 
->[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451881?captions=chi_hans&quality=12&learn=on){transcript=true}
