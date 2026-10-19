@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 以下视频介绍如何下载和安装 Adobe Campaign 客户端控制台，创建和管理与多个环境的连接，以及验证对 Adobe Campaign 客户端控制台的访问权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/38266?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){transcript=true}

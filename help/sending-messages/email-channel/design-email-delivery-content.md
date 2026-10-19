@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何配置、个性化和测试电子邮件投放内容。 了解如何使用模板、上传图像、添加表情符号、嵌入条形码和二维码。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453872?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}

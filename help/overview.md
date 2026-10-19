@@ -32,9 +32,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 83%
+ht-degree: 100%
 ---
 # Adobe Campaign Classic v7 教程
 
@@ -88,7 +88,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>使用AMP定义交互式电子邮件内容</strong>
+    <strong>使用 AMP 定义交互式电子邮件内容</strong>
     </a>
     </div>
     <p>

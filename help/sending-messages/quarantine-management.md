@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
 ---
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解隔离管理在 Adobe Campaign 中的工作方式，并了解如何管理隔离的地址。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421896?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}

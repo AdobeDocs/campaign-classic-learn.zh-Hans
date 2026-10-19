@@ -31,7 +31,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 了解如何根据客户与首次投放的交互情况，使用电子邮件和直邮投放创建跨渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453531?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}
