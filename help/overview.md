@@ -41,7 +41,7 @@ ht-degree: 100%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。 本用户指南包含了有关 Adobe Campaign Classic V7 的众多特性和功能的视频和教程。
 
 >[!INFO]
-> 您是否有疑问？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对 Adobe 团队的学习内容有任何反馈意见？ 在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入对话！
+> 您是否有疑问？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对 Adobe 团队的学习内容有任何反馈意见？ 在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com?lang=zh_cn:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入对话！
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
